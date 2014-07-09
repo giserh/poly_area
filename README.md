@@ -21,8 +21,8 @@ module to access its functions.
 
 ### License
 
-Ulamspiral is free software: you can redistribute it
-and/or modify it under the terms of the GNU General Public
+Poly_area is free software: you can redistribute it
+und/or modify it under the terms of the GNU General Public
 License. See module header and GPL.txt for more detail.
 
 ### Contact
